@@ -1,75 +1,180 @@
-[15:25:24] [main/INFO]: Using standard Java JCE cipher.
-[15:25:24] [main/INFO]: Using standard Java compressor.
-[15:25:24] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.21-R0.1-SNAPSHOT:9ab9e2b:582
-[15:25:24] [main/WARN]: Waterfall has reached end of life and is no longer maintained. We recommend you transition to Velocity (https://papermc.io/software/velocity). For more information, see the announcement (https://forums.papermc.io/threads/1088/).
-[15:25:25] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
-[15:25:25] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
-[15:25:25] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
-[15:25:25] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
-[15:25:25] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
-[15:25:25] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
-[15:25:25] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=582, git=9ab9e2b)
-[15:25:25] [main/INFO]: Attempting to Jenkins download module cmd_alert v582
-[15:25:26] [main/INFO]: Download complete
-[15:25:26] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=582, git=9ab9e2b)
-[15:25:26] [main/INFO]: Attempting to Jenkins download module cmd_find v582
-[15:25:26] [main/INFO]: Download complete
-[15:25:26] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=582, git=9ab9e2b)
-[15:25:26] [main/INFO]: Attempting to Jenkins download module cmd_list v582
-[15:25:26] [main/INFO]: Download complete
-[15:25:26] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=582, git=9ab9e2b)
-[15:25:26] [main/INFO]: Attempting to Jenkins download module cmd_send v582
-[15:25:27] [main/INFO]: Download complete
-[15:25:27] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=582, git=9ab9e2b)
-[15:25:27] [main/INFO]: Attempting to Jenkins download module cmd_server v582
-[15:25:27] [main/INFO]: Download complete
-[15:25:27] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=582, git=9ab9e2b)
-[15:25:27] [main/INFO]: Attempting to Jenkins download module reconnect_yaml v582
-[15:25:27] [main/INFO]: Download complete
-[15:25:27] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:27] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:27] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:27] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:27] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:27] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:27] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[15:25:27] [main/WARN]: :>  
-[15:25:27] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
-[15:25:27] [main/WARN]: :>  
-[15:25:27] [main/WARN]: :>  This plugin wasn't tested to be 'working'
-[15:25:27] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
-[15:25:27] [main/WARN]: :>  apart from the versions listed below:
-[15:25:27] [main/WARN]: :>  
-[15:25:27] [main/WARN]: :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:20a71b0:1887
-[15:25:27] [main/WARN]: :>  - Waterfall: 1.21-R0.1-SNAPSHOT:bf1be7e:581
-[15:25:27] [main/WARN]: :>  
-[15:25:27] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
-[15:25:27] [main/WARN]: :>  
-[15:25:27] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
-[15:25:27] [main/WARN]: :>  
-[15:25:27] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[15:25:28] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.3.4 by lax1dude
-[15:25:28] [main/WARN]: Forced host server pvp is not defined
-[15:25:28] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:28] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:28] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:28] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:28] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:28] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:28] [Netty Boss IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
-[15:25:28] [main/INFO] [EaglercraftXBungee]: Downloading from maven: https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.45.0.0/sqlite-jdbc-3.45.0.0.jar
-[15:25:31] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
-[15:25:31] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_auths.db
-[15:25:31] [main/INFO] [EaglercraftXBungee]: Voice chat disabled, add "allow_voice: true" to your listeners to enable
-[15:25:31] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.3.4 by lax1dude
-[15:25:31] [Netty Boss IO Thread #1/INFO]: Listening on /0.0.0.0:25577
-[15:25:46] [Shutdown Thread/INFO]: Closing listener [id: 0x9ac2277e, L:/[0:0:0:0:0:0:0:0]:25577]
-[15:25:46] [Shutdown Thread/INFO]: Closing pending connections
-[15:25:46] [Shutdown Thread/INFO]: Disconnecting 0 connections
-[15:25:46] [Shutdown Thread/INFO]: Saving reconnect locations
-[15:25:46] [Shutdown Thread/INFO]: Disabling plugins
-[15:25:46] [Shutdown Thread/INFO] [EaglercraftXBungee]: Eaglercraft listener closed: /0.0.0.0:8081
-[15:25:46] [Shutdown Thread/INFO] [EaglercraftXBungee]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
-[15:25:46] [Shutdown Thread/INFO] [EaglercraftXBungee]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_auths.db'
-[15:25:46] [Shutdown Thread/INFO]: Closing IO threads
-[15:25:49] [Shutdown Thread/INFO]: Thank you and goodbye
+[02:09:34] [main/INFO]: Using mbed TLS based native cipher.
+[02:09:34] [main/INFO]: Using zlib based native compressor.
+[02:09:34] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.21-R0.1-SNAPSHOT:9ab9e2b:582
+[02:09:34] [main/WARN]: Waterfall has reached end of life and is no longer maintained. We recommend you transition to Velocity (https://papermc.io/software/velocity). For more information, see the announcement (https://forums.papermc.io/threads/1088/).
+[02:09:34] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[02:09:34] [main/INFO]: Epoll is working, utilising it!
+[02:09:34] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[02:09:34] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[02:09:34] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[02:09:34] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[02:09:34] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[02:09:34] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[02:09:34] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[02:09:34] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[02:09:34] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[02:09:34] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[02:09:34] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[02:09:34] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[02:09:34] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[02:09:34] [main/WARN]: :>  
+[02:09:34] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
+[02:09:34] [main/WARN]: :>  
+[02:09:34] [main/WARN]: :>  This plugin wasn't tested to be 'working'
+[02:09:34] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
+[02:09:34] [main/WARN]: :>  apart from the versions listed below:
+[02:09:34] [main/WARN]: :>  
+[02:09:34] [main/WARN]: :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:20a71b0:1887
+[02:09:34] [main/WARN]: :>  - Waterfall: 1.21-R0.1-SNAPSHOT:bf1be7e:581
+[02:09:34] [main/WARN]: :>  
+[02:09:34] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
+[02:09:34] [main/WARN]: :>  
+[02:09:34] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
+[02:09:34] [main/WARN]: :>  
+[02:09:34] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[02:09:34] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: Mr_Slope69
+[02:09:35] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: Mr_Slope69
+[02:09:35] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.3.4 by lax1dude
+[02:09:35] [main/WARN]: Forced host server pvp is not defined
+[02:09:35] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[02:09:35] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[02:09:35] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[02:09:35] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[02:09:35] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[02:09:35] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[02:09:35] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[02:09:35] [Netty Boss IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[02:09:36] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[02:09:36] [main/WARN] [EaglercraftXBungee]: Voice chat enabled, not recommended for public servers!
+[02:09:36] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.3.4 by lax1dude
+[02:09:36] [Netty Boss IO Thread #1/INFO]: Listening on /0.0.0.0:25577
+[02:10:13] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:58078]: Connected via websocket
+[02:10:13] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:58078]: Real address is 10.240.0.10
+[02:10:13] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:58078]: Origin header is https://cedar-gaudy-romano.glitch.me
+[02:10:13] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:58078]: Logged in as 'DarverEagl8915'
+[02:10:13] [Netty Worker IO Thread #0/INFO]: [/10.240.0.10:58078|DarverEagl8915] -> UpstreamBridge has connected
+[02:10:13] [Netty Worker IO Thread #0/INFO]: [DarverEagl8915|/10.240.0.10:58078] <-> ServerConnector [lobby] has connected
+[02:10:13] [Netty Worker IO Thread #0/INFO]: [DarverEagl8915] disconnected with: Kicked whilst connecting to lobby: You are banned from this server!
+Reason: &4&lYou are Banned From Clistin Anarchy... Reason: Tried Crashing
+Your ban will be removed on 2025-03-30 at 01:41:02 UTC
+[02:10:13] [Netty Worker IO Thread #0/INFO]: [/10.240.0.10:58078|DarverEagl8915] -> UpstreamBridge has disconnected
+[02:10:13] [Netty Worker IO Thread #0/INFO]: [DarverEagl8915|/10.240.0.10:58078] <-> ServerConnector [lobby] has disconnected
+[02:11:05] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/chanhina/waterfall/server-icon.png
+[02:11:08] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:48814]: Connected via websocket
+[02:11:08] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:48814]: Real address is 10.240.2.99
+[02:11:08] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:48814]: Origin header is https://cedar-gaudy-romano.glitch.me
+[02:11:08] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:48814]: Logged in as 'DarverEagl8915'
+[02:11:08] [Netty Worker IO Thread #2/INFO]: [/10.240.2.99:48814|DarverEagl8915] -> UpstreamBridge has connected
+[02:11:08] [Netty Worker IO Thread #2/INFO]: [DarverEagl8915|/10.240.2.99:48814] <-> ServerConnector [lobby] has connected
+[02:19:55] [Netty Worker IO Thread #2/INFO]: [DarverEagl8915] disconnected with: Proxy lost connection to server.
+[02:19:55] [Netty Worker IO Thread #2/INFO]: [/10.240.2.99:48814|DarverEagl8915] <-> DownstreamBridge <-> [lobby] has disconnected
+[02:19:55] [Netty Worker IO Thread #2/INFO]: [/10.240.2.99:48814|DarverEagl8915] -> UpstreamBridge has disconnected
+[02:24:19] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:58046]: Connected via websocket
+[02:24:19] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:58046]: Real address is 10.240.0.199
+[02:24:19] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:58046]: Origin header is https://cedar-gaudy-romano.glitch.me
+[02:24:19] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:58046]: Logged in as 'DarverEagl8915'
+[02:24:19] [Netty Worker IO Thread #3/INFO]: [/10.240.0.199:58046|DarverEagl8915] -> UpstreamBridge has connected
+[02:24:19] [Netty Worker IO Thread #3/INFO]: [DarverEagl8915|/10.240.0.199:58046] <-> ServerConnector [lobby] has connected
+[02:29:04] [Netty Worker IO Thread #3/INFO]: [DarverEagl8915] disconnected with: Server closed
+[02:29:04] [Netty Worker IO Thread #3/INFO]: [/10.240.0.199:58046|DarverEagl8915] -> UpstreamBridge has disconnected
+[02:29:04] [Netty Worker IO Thread #3/INFO]: [/10.240.0.199:58046|DarverEagl8915] <-> DownstreamBridge <-> [lobby] has disconnected
+[02:29:19] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:36402]: Connected via websocket
+[02:29:19] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:36402]: Real address is 10.240.1.166
+[02:29:19] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:36402]: Origin header is https://cedar-gaudy-romano.glitch.me
+[02:29:19] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:36402]: Logged in as 'DarverEagl8915'
+[02:29:19] [Netty Worker IO Thread #4/INFO]: [/10.240.1.166:36402|DarverEagl8915] -> UpstreamBridge has connected
+[02:29:19] [Netty Worker IO Thread #4/INFO]: [DarverEagl8915|/10.240.1.166:36402] <-> ServerConnector [lobby] has connected
+[02:32:12] [Netty Worker IO Thread #4/INFO]: [DarverEagl8915] disconnected with: Server closed
+[02:32:12] [Netty Worker IO Thread #4/INFO]: [/10.240.1.166:36402|DarverEagl8915] -> UpstreamBridge has disconnected
+[02:32:12] [Netty Worker IO Thread #4/INFO]: [/10.240.1.166:36402|DarverEagl8915] <-> DownstreamBridge <-> [lobby] has disconnected
+[02:32:28] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:59462]: Connected via websocket
+[02:32:28] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:59462]: Real address is 10.240.2.99
+[02:32:28] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:59462]: Origin header is https://cedar-gaudy-romano.glitch.me
+[02:32:28] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:59462]: Logged in as 'DarverEagl8915'
+[02:32:28] [Netty Worker IO Thread #5/INFO]: [/10.240.2.99:59462|DarverEagl8915] -> UpstreamBridge has connected
+[02:32:28] [Netty Worker IO Thread #5/INFO]: [DarverEagl8915|/10.240.2.99:59462] <-> ServerConnector [lobby] has connected
+[02:34:09] [Netty Worker IO Thread #5/INFO]: [/10.240.2.99:59462|DarverEagl8915] -> UpstreamBridge has disconnected
+[02:34:09] [Netty Worker IO Thread #5/INFO]: [/10.240.2.99:59462|DarverEagl8915] <-> DownstreamBridge <-> [lobby] has disconnected
+[02:34:19] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:59418]: Connected via websocket
+[02:34:19] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:59418]: Real address is 10.240.0.199
+[02:34:19] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:59418]: Origin header is https://cedar-gaudy-romano.glitch.me
+[02:34:19] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:59418]: Logged in as 'ruqJP'
+[02:34:19] [Netty Worker IO Thread #0/INFO]: [/10.240.0.199:59418|ruqJP] -> UpstreamBridge has connected
+[02:34:19] [Netty Worker IO Thread #0/INFO]: [ruqJP|/10.240.0.199:59418] <-> ServerConnector [lobby] has connected
+[02:35:13] [Netty Worker IO Thread #0/INFO]: [/10.240.0.199:59418|ruqJP] -> UpstreamBridge has disconnected
+[02:35:13] [Netty Worker IO Thread #0/INFO]: [/10.240.0.199:59418|ruqJP] <-> DownstreamBridge <-> [lobby] has disconnected
+[03:01:26] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:44628]: Connected via websocket
+[03:01:26] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:44628]: Real address is 10.240.0.199
+[03:01:26] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:44628]: Origin header is https://merciful-thoughtful-honey.glitch.me
+[03:01:26] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:44628]: Logged in as 'YeelerVool914Rev'
+[03:01:26] [Netty Worker IO Thread #3/INFO]: [/10.240.0.199:44628|YeelerVool914Rev] -> UpstreamBridge has connected
+[03:01:26] [Netty Worker IO Thread #3/WARN]: Error occurred processing connection for YeelerVool914Rev AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[03:01:26] [Netty Worker IO Thread #3/INFO]: [YeelerVool914Rev] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[03:01:26] [Netty Worker IO Thread #3/INFO]: [/10.240.0.199:44628|YeelerVool914Rev] -> UpstreamBridge has disconnected
+[03:06:35] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:48090]: Connected via websocket
+[03:06:35] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:48090]: Real address is 10.240.1.166
+[03:06:35] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:48090]: Origin header is https://merciful-thoughtful-honey.glitch.me
+[03:06:35] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:48090]: Logged in as 'YeelerVool914Rev'
+[03:06:35] [Netty Worker IO Thread #4/INFO]: [/10.240.1.166:48090|YeelerVool914Rev] -> UpstreamBridge has connected
+[03:06:35] [Netty Worker IO Thread #4/INFO]: [YeelerVool914Rev|/10.240.1.166:48090] <-> ServerConnector [lobby] has connected
+[03:06:35] [Netty Worker IO Thread #4/INFO]: [YeelerVool914Rev] disconnected with: Kicked whilst connecting to lobby: You are banned from this server!
+Reason: &4&lYou are Banned From Clistin Anarchy... Reason: Aim
+Your ban will be removed on 2025-03-30 at 01:40:29 UTC
+[03:06:35] [Netty Worker IO Thread #4/INFO]: [/10.240.1.166:48090|YeelerVool914Rev] -> UpstreamBridge has disconnected
+[03:06:35] [Netty Worker IO Thread #4/INFO]: [YeelerVool914Rev|/10.240.1.166:48090] <-> ServerConnector [lobby] has disconnected
+[03:06:49] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:49662]: Connected via websocket
+[03:06:49] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:49662]: Real address is 10.240.0.199
+[03:06:49] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:49662]: Origin header is https://merciful-thoughtful-honey.glitch.me
+[03:06:49] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:49662]: Logged in as 'mu_'
+[03:06:49] [Netty Worker IO Thread #7/INFO]: [/10.240.0.199:49662|mu_] -> UpstreamBridge has connected
+[03:06:49] [Netty Worker IO Thread #7/INFO]: [mu_|/10.240.0.199:49662] <-> ServerConnector [lobby] has connected
+[03:08:15] [Netty Worker IO Thread #7/INFO]: [mu_] disconnected with: You have been temporarily banned for 23 hours 59 minutes 59 seconds:
+You are Banned From Clistin Anarchy... Reason: Tried Crashing
+[03:08:15] [Netty Worker IO Thread #7/INFO]: [/10.240.0.199:49662|mu_] -> UpstreamBridge has disconnected
+[03:08:15] [Netty Worker IO Thread #7/INFO]: [/10.240.0.199:49662|mu_] <-> DownstreamBridge <-> [lobby] has disconnected
+[03:10:35] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:37662]: Connected via websocket
+[03:10:35] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:37662]: Real address is 10.240.2.99
+[03:10:35] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:37662]: Origin header is https://merciful-thoughtful-honey.glitch.me
+[03:10:35] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:37662]: Logged in as 'mu_'
+[03:10:35] [Netty Worker IO Thread #0/INFO]: [/10.240.2.99:37662|mu_] -> UpstreamBridge has connected
+[03:10:35] [Netty Worker IO Thread #0/INFO]: [mu_|/10.240.2.99:37662] <-> ServerConnector [lobby] has connected
+[03:13:08] [Netty Worker IO Thread #0/INFO]: [mu_] disconnected with: Connection closed
+[03:13:08] [Netty Worker IO Thread #0/INFO]: [/10.240.2.99:37662|mu_] -> UpstreamBridge has disconnected
+[03:13:08] [Netty Worker IO Thread #0/INFO]: [/10.240.2.99:37662|mu_] <-> DownstreamBridge <-> [lobby] has disconnected
+[03:13:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:43772]: Connected via websocket
+[03:13:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:43772]: Real address is 10.240.0.199
+[03:13:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:43772]: Origin header is https://merciful-thoughtful-honey.glitch.me
+[03:13:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:43772]: Logged in as 'mu_'
+[03:13:11] [Netty Worker IO Thread #1/INFO]: [/10.240.0.199:43772|mu_] -> UpstreamBridge has connected
+[03:13:11] [Netty Worker IO Thread #1/INFO]: [mu_|/10.240.0.199:43772] <-> ServerConnector [lobby] has connected
+[03:13:20] [Netty Worker IO Thread #1/INFO]: [mu_] disconnected with: Connection closed
+[03:13:20] [Netty Worker IO Thread #1/INFO]: [/10.240.0.199:43772|mu_] -> UpstreamBridge has disconnected
+[03:13:20] [Netty Worker IO Thread #1/INFO]: [/10.240.0.199:43772|mu_] <-> DownstreamBridge <-> [lobby] has disconnected
+[03:13:23] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:52560]: Connected via websocket
+[03:13:23] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:52560]: Real address is 10.240.0.10
+[03:13:23] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:52560]: Origin header is https://merciful-thoughtful-honey.glitch.me
+[03:13:23] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:52560]: Logged in as 'mu_'
+[03:13:23] [Netty Worker IO Thread #2/INFO]: [/10.240.0.10:52560|mu_] -> UpstreamBridge has connected
+[03:13:23] [Netty Worker IO Thread #2/INFO]: [mu_|/10.240.0.10:52560] <-> ServerConnector [lobby] has connected
+[03:13:30] [Netty Worker IO Thread #2/INFO]: [mu_] disconnected with: Connection closed
+[03:13:30] [Netty Worker IO Thread #2/INFO]: [/10.240.0.10:52560|mu_] -> UpstreamBridge has disconnected
+[03:13:30] [Netty Worker IO Thread #2/INFO]: [/10.240.0.10:52560|mu_] <-> DownstreamBridge <-> [lobby] has disconnected
+[03:13:33] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:45312]: Connected via websocket
+[03:13:33] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:45312]: Real address is 10.240.0.199
+[03:13:33] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:45312]: Origin header is https://merciful-thoughtful-honey.glitch.me
+[03:13:33] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:45312]: Logged in as 'mu_'
+[03:13:33] [Netty Worker IO Thread #3/INFO]: [/10.240.0.199:45312|mu_] -> UpstreamBridge has connected
+[03:13:33] [Netty Worker IO Thread #3/INFO]: [mu_|/10.240.0.199:45312] <-> ServerConnector [lobby] has connected
+[03:13:51] [Netty Worker IO Thread #3/INFO]: [mu_] disconnected with: Connection closed
+[03:13:51] [Netty Worker IO Thread #3/INFO]: [/10.240.0.199:45312|mu_] -> UpstreamBridge has disconnected
+[03:13:51] [Netty Worker IO Thread #3/INFO]: [/10.240.0.199:45312|mu_] <-> DownstreamBridge <-> [lobby] has disconnected
+[03:13:55] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:37138]: Connected via websocket
+[03:13:55] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:37138]: Real address is 10.240.0.69
+[03:13:55] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:37138]: Origin header is https://merciful-thoughtful-honey.glitch.me
+[03:13:55] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:37138]: Logged in as 'mu_'
+[03:13:55] [Netty Worker IO Thread #4/INFO]: [/10.240.0.69:37138|mu_] -> UpstreamBridge has connected
+[03:13:55] [Netty Worker IO Thread #4/INFO]: [mu_|/10.240.0.69:37138] <-> ServerConnector [lobby] has connected
+[03:14:37] [Netty Worker IO Thread #4/INFO]: [mu_] disconnected with: You have been temporarily banned for 23 hours 59 minutes 59 seconds:
+You are Banned From Clistin Anarchy... Reason: Reach
+[03:14:37] [Netty Worker IO Thread #4/INFO]: [/10.240.0.69:37138|mu_] -> UpstreamBridge has disconnected
+[03:14:37] [Netty Worker IO Thread #4/INFO]: [/10.240.0.69:37138|mu_] <-> DownstreamBridge <-> [lobby] has disconnected
