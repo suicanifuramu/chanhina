@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 121.109.136.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744271593201
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744595351001
+  login: 1744595345833
+money: '10000000000000'
+last-account-name: ruqJP
+logoutlocation:
+  world: c17cbf56-37b6-43df-aa9a-250ed9d29873
+  world-name: world
+  x: -118.6779743785999
+  y: 249.0
+  z: 23.729293671006694
+  yaw: -1.52496337890625
+  pitch: 7.567473888397217
+lastlocation:
+  world: c17cbf56-37b6-43df-aa9a-250ed9d29873
+  world-name: world
+  x: -118.5
+  y: 249.0
+  z: 23.5
+  yaw: 14.499282836914062
+  pitch: 90.0
+homes:
+  home:
+    world: c17cbf56-37b6-43df-aa9a-250ed9d29873
+    world-name: world
+    x: -147.78786735052097
+    y: 70.0
+    z: 38.41249744374789
+    yaw: -74.28875732421875
+    pitch: 72.92467498779297

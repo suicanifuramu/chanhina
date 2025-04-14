@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 121.109.136.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744534939107
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744543469955
+  login: 1744543466011
+money: '0'
+last-account-name: NotSkilled
+lastlocation:
+  world: c17cbf56-37b6-43df-aa9a-250ed9d29873
+  world-name: world
+  x: -137.28773153089807
+  y: 76.0
+  z: 3.788255009613947
+  yaw: -325.3670959472656
+  pitch: 63.283023834228516
+logoutlocation:
+  world: c17cbf56-37b6-43df-aa9a-250ed9d29873
+  world-name: world
+  x: -117.28655484024495
+  y: 249.0
+  z: 23.3714455711625
+  yaw: -116.50940704345703
+  pitch: 47.75336456298828

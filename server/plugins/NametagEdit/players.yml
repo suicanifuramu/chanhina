@@ -1,0 +1,46 @@
+Players:
+  b5ccebaa-0623-4370-af73-0ec985dfa3b0:
+    Name: sgtcazeyt
+    Prefix: '&b'
+    Suffix: '&c'
+    SortPriority: -1
+  3716427e-76ac-4df4-a50a-706618a70f0c:
+    Name: Cory
+    Prefix: '&b'
+    Suffix: '&c'
+    SortPriority: 3
+  6818c4ce-df40-4083-a82f-ff38010b7977:
+    Name: Lorenzo0111
+    Prefix: '&b'
+    Suffix: '&c'
+    SortPriority: 3
+  88a10822-c3e4-47e8-8f53-1069858fedc4:
+    Name: Aurelien30000
+    Prefix: '&b'
+    Suffix: '&c'
+    SortPriority: 3
+  d7fc0d38-e96b-3ae3-8064-fa31306ea4de:
+    Name: NotSkilled
+    Prefix: '&4[&cOwner&4] &aa'
+    Suffix: ''
+    SortPriority: -1
+  5a206a00-3b23-4dd0-8773-e5a506266b5b:
+    Name: NotSkilled
+    Prefix: '&4[&cOwner&4] &a'
+    Suffix: ''
+    SortPriority: -1
+  4564cb14-f19b-3f53-9932-924039271414:
+    Name: ruqJP
+    Prefix: '&4[&cOwner&4] &a'
+    Suffix: ''
+    SortPriority: -1
+  db5b4b39-ae8d-3fe8-8ed9-9ea623551961:
+    Name: Falt
+    Prefix: 俺は
+    Suffix: だ！
+    SortPriority: -1
+  0162bb7a-16f9-3906-80ff-827c092bc6ac:
+    Name: reimuJP
+    Prefix: '&4[&fY&cT&4] &a'
+    Suffix: ''
+    SortPriority: -1

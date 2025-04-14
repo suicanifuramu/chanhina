@@ -1,0 +1,38 @@
+{
+  "uuid": "db5b4b39-ae8d-3fe8-8ed9-9ea623551961",
+  "name": "Falt",
+  "wins": 0,
+  "losses": 3,
+  "requests": true,
+  "rating": {
+    "nodebuff": 1386,
+    "Fist": 1385,
+    "onehit": 1384
+  },
+  "matches": [
+    {
+      "winner": "NotSkilled",
+      "loser": "Falt",
+      "kit": "Fist",
+      "time": 1744246524947,
+      "duration": 26402,
+      "health": 0.5
+    },
+    {
+      "winner": "NotSkilled",
+      "loser": "Falt",
+      "kit": "onehit",
+      "time": 1744274339517,
+      "duration": 24513,
+      "health": 10.0
+    },
+    {
+      "winner": "NotSkilled",
+      "loser": "Falt",
+      "kit": "nodebuff",
+      "time": 1744274339517,
+      "duration": 18203,
+      "health": 10.0
+    }
+  ]
+}

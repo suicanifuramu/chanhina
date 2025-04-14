@@ -1,0 +1,56 @@
+{
+  "uuid": "4564cb14-f19b-3f53-9932-924039271414",
+  "name": "ruqJP",
+  "wins": 6,
+  "losses": 3,
+  "requests": true,
+  "rating": {
+    "nodebuff": 1384,
+    "classic": 1384,
+    "classicdiamond": 1384,
+    "Fist": 1468,
+    "survivor": 1416
+  },
+  "matches": [
+    {
+      "winner": "reimuJP",
+      "loser": "ruqJP",
+      "kit": "classic",
+      "time": 1744539815738,
+      "duration": 54414,
+      "health": 5.5
+    },
+    {
+      "winner": "reimuJP",
+      "loser": "ruqJP",
+      "kit": "classicdiamond",
+      "time": 1744539815738,
+      "duration": 44810,
+      "health": 5.5
+    },
+    {
+      "winner": "reimuJP",
+      "loser": "ruqJP",
+      "kit": "nodebuff",
+      "time": 1744539815738,
+      "duration": 127403,
+      "health": 6.5
+    },
+    {
+      "winner": "ruqJP",
+      "loser": "reimuJP",
+      "kit": "survivor",
+      "time": 1744539815738,
+      "duration": 43105,
+      "health": 4.0
+    },
+    {
+      "winner": "ruqJP",
+      "loser": "reimuJP",
+      "kit": "Fist",
+      "time": 1744539815738,
+      "duration": 25404,
+      "health": 3.5
+    }
+  ]
+}

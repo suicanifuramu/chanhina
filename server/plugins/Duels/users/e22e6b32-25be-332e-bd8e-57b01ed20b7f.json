@@ -1,0 +1,29 @@
+{
+  "uuid": "e22e6b32-25be-332e-bd8e-57b01ed20b7f",
+  "name": "dnhn71Fridelle25",
+  "wins": 1,
+  "losses": 1,
+  "requests": true,
+  "rating": {
+    "Fist": 1417,
+    "classicChain": 1384
+  },
+  "matches": [
+    {
+      "winner": "NotSkilled",
+      "loser": "dnhn71Fridelle25",
+      "kit": "classicChain",
+      "time": 1744246524947,
+      "duration": 16724,
+      "health": 10.0
+    },
+    {
+      "winner": "dnhn71Fridelle25",
+      "loser": "NotSkilled",
+      "kit": "Fist",
+      "time": 1744246524947,
+      "duration": 17503,
+      "health": 8.0
+    }
+  ]
+}

@@ -10,7 +10,7 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: server-icon.png
   server_motd:
-  - '&6An EaglercraftX server'
+  - '&9&lClust &1&lPractice&r                                               &5!Beta Release! &adiscord: discord.gg/Px8Q8wt9pf'
   allow_motd: true
   allow_query: true
   min_minecraft_protocol: 47

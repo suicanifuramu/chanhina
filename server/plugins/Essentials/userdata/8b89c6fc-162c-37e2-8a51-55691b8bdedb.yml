@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 18.183.69.30
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743917807868
+  login: 1743916471469
+money: '0'
+last-account-name: DarverDeev568
+logoutlocation:
+  world: c17cbf56-37b6-43df-aa9a-250ed9d29873
+  world-name: world
+  x: -119.5
+  y: 72.0
+  z: 22.5
+  yaw: 91.17545318603516
+  pitch: -1.045393943786621
+lastlocation:
+  world: c17cbf56-37b6-43df-aa9a-250ed9d29873
+  world-name: world
+  x: -135.30000001192093
+  y: 66.0
+  z: 27.69999998807907
+  yaw: -185.1396026611328
+  pitch: 24.28740692138672
