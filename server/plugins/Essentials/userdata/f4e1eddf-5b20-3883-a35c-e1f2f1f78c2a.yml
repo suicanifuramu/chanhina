@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 121.109.136.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744165247102
+  login: 1744165130708
+money: '0'
+last-account-name: YeerDeev984_alt
+logoutlocation:
+  world: c17cbf56-37b6-43df-aa9a-250ed9d29873
+  world-name: world
+  x: -140.55567508126848
+  y: 71.0
+  z: 31.83057399690512
+  yaw: 35.48917007446289
+  pitch: 34.812835693359375

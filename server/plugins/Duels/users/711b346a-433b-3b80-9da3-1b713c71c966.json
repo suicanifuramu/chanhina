@@ -1,0 +1,36 @@
+{
+  "uuid": "711b346a-433b-3b80-9da3-1b713c71c966",
+  "name": "serzk28",
+  "wins": 0,
+  "losses": 3,
+  "requests": true,
+  "rating": {
+    "Fist": 1357
+  },
+  "matches": [
+    {
+      "winner": "serzk27",
+      "loser": "serzk28",
+      "kit": "Fist",
+      "time": 1744174069289,
+      "duration": 61823,
+      "health": 1.5
+    },
+    {
+      "winner": "serzk27",
+      "loser": "serzk28",
+      "kit": "Fist",
+      "time": 1744174069289,
+      "duration": 57802,
+      "health": 4.5
+    },
+    {
+      "winner": "serzk27",
+      "loser": "serzk28",
+      "kit": "Fist",
+      "time": 1744174069289,
+      "duration": 45202,
+      "health": 3.5
+    }
+  ]
+}

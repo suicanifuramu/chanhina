@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 121.109.136.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743921086292
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743922251348
+  login: 1743921079106
+  kits:
+    notch: 1743554394124
+money: '0'
+last-account-name: Takly_
+logoutlocation:
+  world: c17cbf56-37b6-43df-aa9a-250ed9d29873
+  world-name: world
+  x: -120.9136335643746
+  y: 72.0
+  z: 23.194371042646374
+  yaw: 88.68846893310547
+  pitch: -6.563806533813477
+lastlocation:
+  world: c17cbf56-37b6-43df-aa9a-250ed9d29873
+  world-name: world
+  x: -119.0
+  y: 64.0
+  z: 23.0
+  yaw: 0.0
+  pitch: 0.0

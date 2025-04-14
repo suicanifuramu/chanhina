@@ -1,0 +1,8 @@
+enabled: true
+ground_horizontal_multiplier: 0.48
+ground_vertical_multiplier: 0.38
+air_horizontal_multiplier: 0.52
+air_vertical_multiplier: 0.38
+sprint_multiplier_horizontal: 1.0
+sprint_multiplier_vertical: 1.0
+sprint_yaw_factor: 0.5

@@ -1,0 +1,82 @@
+Punishments:
+  Simulation:
+    remove-violations-after: 300
+    checks:
+      - "Simulation"
+      - "GroundSpoof"
+      - "Timer"
+      - "NoFall"
+    commands:
+      - "100:40 [alert]"
+      - "100:100 [webhook]"
+      - "100:100 [proxy]"
+      - "100:0 tempban %player% 24h you are banned for Clust!"
+  Knockback:
+    remove-violations-after: 300
+    checks:
+      - "Knockback"
+      - "Explosion"
+    commands:
+      - "5:5 [alert]"
+      - "20:20 [webhook]"
+      - "20:20 [proxy]"
+      - "20:0 tempban %player% 24h you are banned for Clust!"
+  Post:
+    remove-violations-after: 300
+    checks:
+      - "Post"
+    commands:
+      - "20:20 [alert]"
+      - "40:40 [webhook]"
+      - "40:40 [proxy]"
+  BadPackets:
+    remove-violations-after: 300
+    checks:
+      - "BadPackets"
+      - "Crash"
+    commands:
+      - "20:20 [alert]"
+      - "40:40 [webhook]"
+      - "40:40 [proxy]"
+  Reach:
+    remove-violations-after: 300
+    checks:
+      - "Reach"
+    commands:
+      - "5:5 [alert]"
+      - "5:5 [webhook]"
+      - "5:5 [proxy]"
+      - "40:0 tempban %player% 24h you are banned for Clust!"
+  Misc:
+    remove-violations-after: 300
+    checks:
+      - "Vehicle"
+      - "NoSlow"
+      - "Sprint"
+      - "MultiActions"
+      - "Place"
+      - "Baritone"
+      - "Break"
+      - "TransactionOrder"
+      - "Elytra"
+    commands:
+      - "10:5 [alert]"
+      - "20:10 [webhook]"
+      - "20:10 [proxy]"
+      - "30:0 tempban %player% 24h you are banned for Clust!"
+  Combat:
+    remove-violations-after: 300
+    checks:
+      - "Interact"
+      - "Killaura"
+      - "Aim"
+    commands:
+      - "20:40 [alert]"
+      - "30:0 tempban %player% 24h you are banned for Clust!"
+  Autoclicker:
+    remove-violations-after: 300
+    checks:
+      - "Autoclicker"
+    commands:
+      - "20:40 [alert]"
+      - "10:0 tempban %player% 24h you are banned for Clust!"

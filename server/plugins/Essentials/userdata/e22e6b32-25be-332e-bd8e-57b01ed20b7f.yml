@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 121.109.136.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744250371416
+  login: 1744250265719
+money: '0'
+last-account-name: dnhn71Fridelle25
+logoutlocation:
+  world: c17cbf56-37b6-43df-aa9a-250ed9d29873
+  world-name: world
+  x: -120.15755861297652
+  y: 249.0
+  z: 24.19985136087332
+  yaw: 53.80191421508789
+  pitch: 12.940346717834473
+lastlocation:
+  world: c17cbf56-37b6-43df-aa9a-250ed9d29873
+  world-name: world
+  x: -118.5
+  y: 249.0
+  z: 23.5
+  yaw: 14.499282836914062
+  pitch: 90.0

@@ -1,75 +1,59 @@
-[15:25:24] [main/INFO]: Using standard Java JCE cipher.
-[15:25:24] [main/INFO]: Using standard Java compressor.
-[15:25:24] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.21-R0.1-SNAPSHOT:9ab9e2b:582
-[15:25:24] [main/WARN]: Waterfall has reached end of life and is no longer maintained. We recommend you transition to Velocity (https://papermc.io/software/velocity). For more information, see the announcement (https://forums.papermc.io/threads/1088/).
-[15:25:25] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
-[15:25:25] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
-[15:25:25] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
-[15:25:25] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
-[15:25:25] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
-[15:25:25] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
-[15:25:25] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=582, git=9ab9e2b)
-[15:25:25] [main/INFO]: Attempting to Jenkins download module cmd_alert v582
-[15:25:26] [main/INFO]: Download complete
-[15:25:26] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=582, git=9ab9e2b)
-[15:25:26] [main/INFO]: Attempting to Jenkins download module cmd_find v582
-[15:25:26] [main/INFO]: Download complete
-[15:25:26] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=582, git=9ab9e2b)
-[15:25:26] [main/INFO]: Attempting to Jenkins download module cmd_list v582
-[15:25:26] [main/INFO]: Download complete
-[15:25:26] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=582, git=9ab9e2b)
-[15:25:26] [main/INFO]: Attempting to Jenkins download module cmd_send v582
-[15:25:27] [main/INFO]: Download complete
-[15:25:27] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=582, git=9ab9e2b)
-[15:25:27] [main/INFO]: Attempting to Jenkins download module cmd_server v582
-[15:25:27] [main/INFO]: Download complete
-[15:25:27] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=582, git=9ab9e2b)
-[15:25:27] [main/INFO]: Attempting to Jenkins download module reconnect_yaml v582
-[15:25:27] [main/INFO]: Download complete
-[15:25:27] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:27] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:27] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:27] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:27] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:27] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:27] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[15:25:27] [main/WARN]: :>  
-[15:25:27] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
-[15:25:27] [main/WARN]: :>  
-[15:25:27] [main/WARN]: :>  This plugin wasn't tested to be 'working'
-[15:25:27] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
-[15:25:27] [main/WARN]: :>  apart from the versions listed below:
-[15:25:27] [main/WARN]: :>  
-[15:25:27] [main/WARN]: :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:20a71b0:1887
-[15:25:27] [main/WARN]: :>  - Waterfall: 1.21-R0.1-SNAPSHOT:bf1be7e:581
-[15:25:27] [main/WARN]: :>  
-[15:25:27] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
-[15:25:27] [main/WARN]: :>  
-[15:25:27] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
-[15:25:27] [main/WARN]: :>  
-[15:25:27] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[15:25:28] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.3.4 by lax1dude
-[15:25:28] [main/WARN]: Forced host server pvp is not defined
-[15:25:28] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:28] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:28] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:28] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:28] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:28] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
-[15:25:28] [Netty Boss IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
-[15:25:28] [main/INFO] [EaglercraftXBungee]: Downloading from maven: https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.45.0.0/sqlite-jdbc-3.45.0.0.jar
-[15:25:31] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
-[15:25:31] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_auths.db
-[15:25:31] [main/INFO] [EaglercraftXBungee]: Voice chat disabled, add "allow_voice: true" to your listeners to enable
-[15:25:31] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.3.4 by lax1dude
-[15:25:31] [Netty Boss IO Thread #1/INFO]: Listening on /0.0.0.0:25577
-[15:25:46] [Shutdown Thread/INFO]: Closing listener [id: 0x9ac2277e, L:/[0:0:0:0:0:0:0:0]:25577]
-[15:25:46] [Shutdown Thread/INFO]: Closing pending connections
-[15:25:46] [Shutdown Thread/INFO]: Disconnecting 0 connections
-[15:25:46] [Shutdown Thread/INFO]: Saving reconnect locations
-[15:25:46] [Shutdown Thread/INFO]: Disabling plugins
-[15:25:46] [Shutdown Thread/INFO] [EaglercraftXBungee]: Eaglercraft listener closed: /0.0.0.0:8081
-[15:25:46] [Shutdown Thread/INFO] [EaglercraftXBungee]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
-[15:25:46] [Shutdown Thread/INFO] [EaglercraftXBungee]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_auths.db'
-[15:25:46] [Shutdown Thread/INFO]: Closing IO threads
-[15:25:49] [Shutdown Thread/INFO]: Thank you and goodbye
+[01:46:08] [main/INFO]: Using mbed TLS based native cipher.
+[01:46:08] [main/INFO]: Using zlib based native compressor.
+[01:46:08] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.21-R0.1-SNAPSHOT:9ab9e2b:582
+[01:46:08] [main/WARN]: Waterfall has reached end of life and is no longer maintained. We recommend you transition to Velocity (https://papermc.io/software/velocity). For more information, see the announcement (https://forums.papermc.io/threads/1088/).
+[01:46:09] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[01:46:09] [main/INFO]: Epoll is working, utilising it!
+[01:46:09] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[01:46:09] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[01:46:09] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[01:46:09] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[01:46:09] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[01:46:09] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[01:46:10] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[01:46:10] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[01:46:10] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[01:46:10] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[01:46:10] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[01:46:10] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[01:46:10] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[01:46:10] [main/WARN]: :>  
+[01:46:10] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
+[01:46:10] [main/WARN]: :>  
+[01:46:10] [main/WARN]: :>  This plugin wasn't tested to be 'working'
+[01:46:10] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
+[01:46:10] [main/WARN]: :>  apart from the versions listed below:
+[01:46:10] [main/WARN]: :>  
+[01:46:10] [main/WARN]: :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:20a71b0:1887
+[01:46:10] [main/WARN]: :>  - Waterfall: 1.21-R0.1-SNAPSHOT:bf1be7e:581
+[01:46:10] [main/WARN]: :>  
+[01:46:10] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
+[01:46:10] [main/WARN]: :>  
+[01:46:10] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
+[01:46:10] [main/WARN]: :>  
+[01:46:10] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[01:46:11] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: Mr_Slope69
+[01:46:15] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: Mr_Slope69
+[01:46:15] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.3.4 by lax1dude
+[01:46:15] [main/WARN]: Forced host server pvp is not defined
+[01:46:15] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[01:46:15] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[01:46:15] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[01:46:15] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[01:46:15] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[01:46:15] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:9ab9e2b:582 by WaterfallMC
+[01:46:15] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[01:46:15] [Netty Boss IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[01:46:15] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[01:46:15] [main/WARN] [EaglercraftXBungee]: Voice chat enabled, not recommended for public servers!
+[01:46:15] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.3.4 by lax1dude
+[01:46:15] [Netty Boss IO Thread #1/INFO]: Listening on /0.0.0.0:25577
+[01:49:01] [Netty Worker IO Thread #0/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/chanhina/waterfall/server-icon.png
+[01:49:03] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:41012]: Connected via websocket
+[01:49:03] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:41012]: Real address is 121.109.136.20
+[01:49:03] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:41012]: Origin header is https://devjakob.webs.vc
+[01:49:04] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1]:41012]: Logged in as 'ruqJP'
+[01:49:04] [Netty Worker IO Thread #1/INFO]: [/121.109.136.20:41012|ruqJP] -> UpstreamBridge has connected
+[01:49:04] [Netty Worker IO Thread #1/INFO]: [ruqJP|/121.109.136.20:41012] <-> ServerConnector [lobby] has connected
+[01:49:10] [Netty Worker IO Thread #1/INFO]: [/121.109.136.20:41012|ruqJP] -> UpstreamBridge has disconnected
+[01:49:10] [Netty Worker IO Thread #1/INFO]: [/121.109.136.20:41012|ruqJP] <-> DownstreamBridge <-> [lobby] has disconnected

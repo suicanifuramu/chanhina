@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.240.1.166
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743573454454
+  login: 1743573056442
+money: '10000000000000'
+last-account-name: VoolYee164
+logoutlocation:
+  world: c17cbf56-37b6-43df-aa9a-250ed9d29873
+  world-name: world
+  x: -134.06071391348118
+  y: 104.0
+  z: 8.013683212008353
+  yaw: -280.9126281738281
+  pitch: 53.36030578613281
+lastlocation:
+  world: c17cbf56-37b6-43df-aa9a-250ed9d29873
+  world-name: world
+  x: -121.9532408592496
+  y: 74.0
+  z: 21.245850728712096
+  yaw: -195.8304443359375
+  pitch: -13.836880683898926
+nickname: laue

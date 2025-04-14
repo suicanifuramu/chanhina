@@ -1,0 +1,44 @@
+{
+  "uuid": "cc725bce-108e-3b9f-aa99-0c46a818d505",
+  "name": "Takly_",
+  "wins": 0,
+  "losses": 4,
+  "requests": true,
+  "rating": {
+    "Fist": 1345
+  },
+  "matches": [
+    {
+      "winner": "ruqJP",
+      "loser": "Takly_",
+      "kit": "Fist",
+      "time": 1743920699505,
+      "duration": 21016,
+      "health": 10.0
+    },
+    {
+      "winner": "ruqJP",
+      "loser": "Takly_",
+      "kit": "Fist",
+      "time": 1743920699505,
+      "duration": 44703,
+      "health": 10.0
+    },
+    {
+      "winner": "ruqJP",
+      "loser": "Takly_",
+      "kit": "Fist",
+      "time": 1743920699505,
+      "duration": 41002,
+      "health": 10.0
+    },
+    {
+      "winner": "ruqJP",
+      "loser": "Takly_",
+      "kit": "Fist",
+      "time": 1743920699505,
+      "duration": 63302,
+      "health": 10.0
+    }
+  ]
+}

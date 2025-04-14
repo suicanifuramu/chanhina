@@ -1,0 +1,37 @@
+{
+  "uuid": "50ab20eb-bd92-30e7-8f08-f95cb8339bf1",
+  "name": "EaglerVigg891",
+  "wins": 1,
+  "losses": 2,
+  "requests": true,
+  "rating": {
+    "nodebuff": 1384,
+    "Fist": 1405
+  },
+  "matches": [
+    {
+      "winner": "serzk27",
+      "loser": "EaglerVigg891",
+      "kit": "Fist",
+      "time": 1744175037538,
+      "duration": 22718,
+      "health": 2.0
+    },
+    {
+      "winner": "serzk27",
+      "loser": "EaglerVigg891",
+      "kit": "nodebuff",
+      "time": 1744175037538,
+      "duration": 54913,
+      "health": 9.0
+    },
+    {
+      "winner": "EaglerVigg891",
+      "loser": "serzk27",
+      "kit": "Fist",
+      "time": 1744175037538,
+      "duration": 31803,
+      "health": 10.0
+    }
+  ]
+}

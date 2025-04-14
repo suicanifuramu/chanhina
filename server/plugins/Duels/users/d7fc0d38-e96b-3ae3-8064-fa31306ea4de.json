@@ -1,0 +1,64 @@
+{
+  "uuid": "d7fc0d38-e96b-3ae3-8064-fa31306ea4de",
+  "name": "NotSkilled",
+  "wins": 29,
+  "losses": 6,
+  "requests": true,
+  "rating": {
+    "pufferfish": 1416,
+    "nodebuff": 1456,
+    "classicdiamond": 1399,
+    "Fist": 1441,
+    "noob": 1416,
+    "classicChain": 1431,
+    "OnlyGapple": 1416,
+    "onehit": 1416,
+    "bow": 1384,
+    "noenchants": 1416,
+    "survivor": 1458,
+    "classic": 1447,
+    "Stick": 1416
+  },
+  "matches": [
+    {
+      "winner": "NotSkilled",
+      "loser": "oreoreoreore",
+      "kit": "Fist",
+      "time": 1744533454337,
+      "duration": 20907,
+      "health": 3.0
+    },
+    {
+      "winner": "NotSkilled",
+      "loser": "oreoreoreore",
+      "kit": "Stick",
+      "time": 1744533454337,
+      "duration": 14105,
+      "health": 4.5
+    },
+    {
+      "winner": "NotSkilled",
+      "loser": "oreoreoreore",
+      "kit": "classicChain",
+      "time": 1744533454337,
+      "duration": 14602,
+      "health": 8.0
+    },
+    {
+      "winner": "NotSkilled",
+      "loser": "oreoreoreore",
+      "kit": "classicdiamond",
+      "time": 1744533454337,
+      "duration": 18502,
+      "health": 8.0
+    },
+    {
+      "winner": "oreoreoreore",
+      "loser": "NotSkilled",
+      "kit": "classicdiamond",
+      "time": 1744533454337,
+      "duration": 30003,
+      "health": 2.0
+    }
+  ]
+}
